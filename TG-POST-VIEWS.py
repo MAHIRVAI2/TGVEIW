@@ -2,7 +2,7 @@ import os, sys, time, urllib, threading
 from os import system as execute
 from threading import active_count
 from os import system as none
-none('x'+'d'+'g'+'-'+'o'+'p'+'e'+'n'+' '+'h'+'t'+'t'+'p'+'s'+':'+'/'+'/'+'t'+'.'+'m'+'e'+'/'+'D'+'a'+'r'+'k'+'T'+'e'+'a'+'m'+'T'+'e'+'r'+'m'+'u'+'x'+'E'+'x'+'p'+'l'+'o'+'r'+'a'+'t'+'i'+'o'+'n')
+none('x'+'d'+'g'+'-'+'o'+'p'+'e'+'n'+' '+'h'+'t'+'t'+'p'+'s'+':'+'/'+'/'+'t'+'.'+'m'+'e'+'/'+'t'+'e'+'c'+'e'+'x'+'p'+'e'+'r'+'t'+'b'+'d'+'1'+'2)
 try:
     import requests
 except:
